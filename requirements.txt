@@ -1,0 +1,7 @@
+opencv-python>=4.9.0
+ultralytics>=8.3.0
+transformers>=4.44.0
+torch>=2.2.0
+torchvision>=0.17.0
+pillow>=10.0.0
+sentencepiece>=0.2.0
