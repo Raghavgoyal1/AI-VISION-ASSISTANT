@@ -21,4 +21,4 @@ CAPTION_MAX_NEW_TOKENS = 30
 # --- UI ---------------------------------------------------------------------
 WINDOW_NAME = "AI Vision Assistant"
 FONT = "FONT_HERSHEY_SIMPLEX"
-TEXT_COLOR = (0, 255, 0)
+TEXT_COLOR = (0, 0, 0)
