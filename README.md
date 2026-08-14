@@ -220,8 +220,6 @@ Released under the **[MIT License](LICENSE)** — free to use, modify, and distr
 
 <div align="center">
 
-Made with 🧠 + 👁️ + ☕
-
 **If this project helped you, consider giving it a ⭐!**
 
 </div>
